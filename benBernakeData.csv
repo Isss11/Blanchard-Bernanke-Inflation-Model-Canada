@@ -1,0 +1,97 @@
+﻿id,label,description,dimension_key,dimension_name
+SAN_BOUN20240501_C1_S1,"SEPH, Fixed-weight measure",,date,date
+SAN_BOUN20240501_C1_S2,"LFS, Fixed-weight measure",,date,date
+SAN_BOUN20240501_C1_S3,Wage settlements,,date,date
+SAN_BOUN20240501_C2_S1,Vacancy-to-unemployment ratio (left scale),,date,date
+SAN_BOUN20240501_C2_S2,Unemployment rate (right scale),,date,date
+SAN_BOUN20240501_C3_S1,CPI inflation,,date,date
+SAN_BOUN20240501_C3_S2,SEPH specification,,date,date
+SAN_BOUN20240501_C3_S3,LFS specification,,date,date
+SAN_BOUN20240501_C3_S4,Wage settlements specification,,date,date
+SAN_BOUN20240501_C4A_S1,x,,k,category
+SAN_BOUN20240501_C4A_S2,US - ECI,,k,category
+SAN_BOUN20240501_C4A_S3,CA - SEPH specification,,k,category
+SAN_BOUN20240501_C4A_S4,CA - LFS specification,,k,category
+SAN_BOUN20240501_C4A_S5,CA - WAGSET specification,,k,category
+SAN_BOUN20240501_C4B_S1,x,,k,category
+SAN_BOUN20240501_C4B_S2,US - ECI,,k,category
+SAN_BOUN20240501_C4B_S3,CA - SEPH specification,,k,category
+SAN_BOUN20240501_C4B_S4,CA - LFS specification,,k,category
+SAN_BOUN20240501_C4B_S5,CA - WAGSET specification,,k,category
+SAN_BOUN20240501_C4C_S1,x,,k,category
+SAN_BOUN20240501_C4C_S2,US - ECI,,k,category
+SAN_BOUN20240501_C4C_S3,CA - SEPH specification,,k,category
+SAN_BOUN20240501_C4C_S4,CA - LFS specification,,k,category
+SAN_BOUN20240501_C4C_S5,CA - WAGSET specification,,k,category
+SAN_BOUN20240501_C4D_S1,x,,k,category
+SAN_BOUN20240501_C4D_S2,US - ECI,,k,category
+SAN_BOUN20240501_C4D_S3,CA - SEPH specification,,k,category
+SAN_BOUN20240501_C4D_S4,CA - LFS specification,,k,category
+SAN_BOUN20240501_C4D_S5,CA - WAGSET specification,,k,category
+SAN_BOUN20240501_C5A_S1,Initial condition,,date,date
+SAN_BOUN20240501_C5A_S2,Vacancy-to-unemployment ratio,,date,date
+SAN_BOUN20240501_C5A_S3,Energy prices,,date,date
+SAN_BOUN20240501_C5A_S4,Food prices,,date,date
+SAN_BOUN20240501_C5A_S5,Shortages,,date,date
+SAN_BOUN20240501_C5A_S6,Productivity growth,,date,date
+SAN_BOUN20240501_C5A_S7,Residuals,,date,date
+SAN_BOUN20240501_C5A_S8,Actual data,,date,date
+SAN_BOUN20240501_C5B_S1,Initial condition,,date,date
+SAN_BOUN20240501_C5B_S2,Vacancy-to-unemployment ratio,,date,date
+SAN_BOUN20240501_C5B_S3,Energy prices,,date,date
+SAN_BOUN20240501_C5B_S4,Food prices,,date,date
+SAN_BOUN20240501_C5B_S5,Shortages,,date,date
+SAN_BOUN20240501_C5B_S6,Productivity growth,,date,date
+SAN_BOUN20240501_C5B_S7,Residuals,,date,date
+SAN_BOUN20240501_C5B_S8,Actual data,,date,date
+SAN_BOUN20240501_C5C_S1,Initial condition,,date,date
+SAN_BOUN20240501_C5C_S2,Vacancy-to-unemployment ratio,,date,date
+SAN_BOUN20240501_C5C_S3,Energy prices,,date,date
+SAN_BOUN20240501_C5C_S4,Food prices,,date,date
+SAN_BOUN20240501_C5C_S5,Shortages,,date,date
+SAN_BOUN20240501_C5C_S6,Productivity growth,,date,date
+SAN_BOUN20240501_C5C_S7,Residuals,,date,date
+SAN_BOUN20240501_C5C_S8,Actual data,,date,date
+SAN_BOUN20240501_C5D_S1,Initial condition,,date,date
+SAN_BOUN20240501_C5D_S2,Vacancy-to-unemployment ratio,,date,date
+SAN_BOUN20240501_C5D_S3,Energy prices,,date,date
+SAN_BOUN20240501_C5D_S4,Food prices,,date,date
+SAN_BOUN20240501_C5D_S5,Shortages,,date,date
+SAN_BOUN20240501_C5D_S6,Productivity growth,,date,date
+SAN_BOUN20240501_C5D_S7,Residuals,,date,date
+SAN_BOUN20240501_C5D_S8,Actual data,,date,date
+SAN_BOUN20240501_C6A_S1,Initial condition,,date,date
+SAN_BOUN20240501_C6A_S2,Vacancy-to-unemployment ratio,,date,date
+SAN_BOUN20240501_C6A_S3,Energy prices,,date,date
+SAN_BOUN20240501_C6A_S4,Food prices,,date,date
+SAN_BOUN20240501_C6A_S5,Shortages,,date,date
+SAN_BOUN20240501_C6A_S6,Productivity growth,,date,date
+SAN_BOUN20240501_C6A_S7,Residuals,,date,date
+SAN_BOUN20240501_C6A_S8,Actual data,,date,date
+SAN_BOUN20240501_C6B_S1,Initial condition,,date,date
+SAN_BOUN20240501_C6B_S2,Vacancy-to-unemployment ratio,,date,date
+SAN_BOUN20240501_C6B_S3,Energy prices,,date,date
+SAN_BOUN20240501_C6B_S4,Food prices,,date,date
+SAN_BOUN20240501_C6B_S5,Shortages,,date,date
+SAN_BOUN20240501_C6B_S6,Productivity growth,,date,date
+SAN_BOUN20240501_C6B_S7,Residuals,,date,date
+SAN_BOUN20240501_C6B_S8,Actual data,,date,date
+SAN_BOUN20240501_C6C_S1,Initial condition,,date,date
+SAN_BOUN20240501_C6C_S2,Vacancy-to-unemployment ratio,,date,date
+SAN_BOUN20240501_C6C_S3,Energy prices,,date,date
+SAN_BOUN20240501_C6C_S4,Food prices,,date,date
+SAN_BOUN20240501_C6C_S5,Shortages,,date,date
+SAN_BOUN20240501_C6C_S6,Productivity growth,,date,date
+SAN_BOUN20240501_C6C_S7,Residuals,,date,date
+SAN_BOUN20240501_C6C_S8,Actual data,,date,date
+SAN_BOUN20240501_C6D_S1,Initial condition,,date,date
+SAN_BOUN20240501_C6D_S2,Vacancy-to-unemployment ratio,,date,date
+SAN_BOUN20240501_C6D_S3,Energy prices,,date,date
+SAN_BOUN20240501_C6D_S4,Food prices,,date,date
+SAN_BOUN20240501_C6D_S5,Shortages,,date,date
+SAN_BOUN20240501_C6D_S6,Productivity growth,,date,date
+SAN_BOUN20240501_C6D_S7,Residuals,,date,date
+SAN_BOUN20240501_C6D_S8,Actual data,,date,date
+SAN_BOUN20240501_C7_S1,V/U = 0.6,,date,date
+SAN_BOUN20240501_C7_S2,V/U = V/U* = 0.45,,date,date
+SAN_BOUN20240501_C7_S3,V/U = 0.3,,date,date
